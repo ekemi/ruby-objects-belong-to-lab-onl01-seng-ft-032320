@@ -1,7 +1,7 @@
 class Posts
-
+@@POST =[]
 attr_accessor :title
-  def initialize(post)
+  def initialize
     @title = title
     @post = post
   end
