@@ -1,4 +1,4 @@
-class Posts
+class Post
 @@POSTS =[]
 attr_accessor :title,:posts
   def initialize(posts)
