@@ -1,8 +1,8 @@
 class Post
 @@POSTS =[]
-attr_accessor :title,:posts
+attr_accessor :title,:post
   def initialize(posts)
     @title = title
-    @posts = posts
+    @post = post
   end
 end
